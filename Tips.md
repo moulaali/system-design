@@ -1,0 +1,17 @@
+Structured Approach
+
+  **Requirements**
+    - Functional : User journey and product usecases and scope for 45 mins only. key usecases to focus on
+    - Constraints
+    - Non Functional
+       - Scale : DAUs, number of objects, requests, QPS, storage, network b/w, latencies 
+       - For QPS : Focus on avg and peak (5x)
+       - For latencies : p50, p99
+       - Durability of objects
+       - Consistency
+
+
+    **10K Feetview **
+    - Core top pieces : Client layer, API gateway, backend servers, storages and types, services, abstractions, 
+    - Abstractions are super important
+    
