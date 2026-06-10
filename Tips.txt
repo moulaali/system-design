@@ -18,7 +18,8 @@ Structured Approach
 
 
     ** Misc **
-     - Add observability
-     - Large scale tradeoffs
-     - 
+     - observability
+     - Data Privacy
+     - Compliance, Data retention policies
+
     
