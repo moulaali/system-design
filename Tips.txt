@@ -14,4 +14,11 @@ Structured Approach
     **10K Feetview **
     - Core top pieces : Client layer, API gateway, backend servers, storages and types, services, abstractions, 
     - Abstractions are super important
+
+
+
+    ** Misc **
+     - Add observability
+     - Large scale tradeoffs
+     - 
     
